@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#article1 {
+  border: 1px dotted blue;
+  flex-basis: 50%;
+}
+
+#article2{
+  border: 1px dashed red;
+  flex-basis: 50%;
+}
